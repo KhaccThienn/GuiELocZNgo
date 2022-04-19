@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="stylemain.xsl" type="text/xsl"?>
+<!-- <?xml-stylesheet href="yc2.xsl" type="text/xsl"?> -->
+<!-- <?xml-stylesheet href="yc3.xsl" type="text/xsl"?> -->
+<!-- <?xml-stylesheet href="yc4.xsl" type="text/xsl"?> -->
+<!-- <?xml-stylesheet href="yc5.xsl" type="text/xsl"?> -->
+<?xml-model href="valid.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<Employees>
+    <Employee>
+        <ID>1</ID>
+        <firstName>Lee</firstName>
+        <lastName>Thac Thien</lastName>
+        <Email>example22@gmal.com</Email>
+        <Phone>0922334556</Phone> 
+        <Date>2020-01-02</Date>
+        <JobID>1</JobID>
+        <Salary>9000</Salary>
+        <ManagerID>108</ManagerID>
+    </Employee>
+    
+    <Employee>
+        <ID>2</ID>
+        <firstName>Lee</firstName>
+        <lastName>Khac Thien</lastName>
+        <Email>example22@gmal.com</Email>
+        <Phone>0922334556</Phone> 
+        <Date>2022-01-01</Date>
+        <JobID>2</JobID>
+        <Salary>9000</Salary>
+        <ManagerID>109</ManagerID>
+    </Employee>
+
+    <Employee>
+        <ID>3</ID>
+        <firstName>Tran</firstName>
+        <lastName>Huong Giang</lastName>
+        <Email>example22@gmal.com</Email>
+        <Phone>0922334556</Phone> 
+        <Date>2018-01-01</Date>
+        <JobID>5</JobID>
+        <Salary>2000</Salary>
+        <ManagerID>1123</ManagerID>
+    </Employee>
+    
+</Employees>
